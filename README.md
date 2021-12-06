@@ -8,6 +8,6 @@ This idea originated from CS111 course which the assignment nine asked me to for
 Five in a row game is a purely strategic chess game in which two players play against each other. Two players usually use black and white chess pieces, which are played in turn at the intersection of the straight and horizontal lines of the board, first on the horizontal, straight or diagonal lines. The one who forms 5 sub-links wins.
 
 # Three ways of playing the game
-<li>1: You can install a JavaScript client to play the game locally with you friends.
-<li>2: You can install a JavaScript client and a Python server so that you can play with your friends remotely.
-<li>3: You can also play with AI. AI player is instructed by the server folder.
+<li>You can install a JavaScript client to play the game locally with you friends.
+<li>You can install a JavaScript client and a Python server so that you can play with your friends remotely.
+<li>You can also play with AI. AI player is instructed by the server folder.
